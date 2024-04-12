@@ -1,3 +1,4 @@
+![image](https://github.com/AlexN09/Snake-Game/blob/main/Assets/GameScreen.png)
 # Snake Game in Unity
 
 This repository hosts a simple clone of the classic Snake game developed using Unity. The project aims to offer a straightforward and fun experience, similar to the classic Snake game where the player controls a snake that grows in length by eating food placed randomly on the screen.
