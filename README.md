@@ -18,4 +18,4 @@ Before running this project, you should have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/snake-game-unity.git
+   git clone https://github.com/AlexN09/Snake-Game.git
